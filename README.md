@@ -1,4 +1,4 @@
-Simple command line imag editor with the following features:
+Simple command line image editor with the following features:
   - set brightness(%) | brightness [value]
   - transform to grayscale | grayscale
   - rotate 90 degrees | rotate
